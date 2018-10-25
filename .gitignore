@@ -1,0 +1,22 @@
+# zyz's gitignore
+
+# ignore binary files
+*.so
+*.exe
+__pycache__
+*.pyc
+*.whl
+
+# ignore temp files and logs
+*.log
+*.temp
+*.bak
+
+# ignore scripts and files for test
+# test
+test.*
+
+# others
+.idea
+.vscode
+venv
