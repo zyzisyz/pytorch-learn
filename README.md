@@ -14,3 +14,4 @@ my pytorch practicing code.
 ## reference
 
 [1] [Learning PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+[2] [github: pytorch-examples](https://github.com/jcjohnson/pytorch-examples)
